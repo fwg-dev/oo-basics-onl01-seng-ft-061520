@@ -24,9 +24,9 @@ class Shoe
 # end
 # def condition=(condition)
 #   @condition = condition
-def cobble 
-  @condition 
+def cobble
+  @condition
   puts "your shoe is as good as new"
-end 
+end
 # end
 end
