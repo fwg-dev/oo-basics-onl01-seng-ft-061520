@@ -30,6 +30,7 @@ class Book #("And Then There Were None")
   end
 
   def turn_page
+      puts "Flipping the page...wow, you read fast!"
   end
 
 end
