@@ -8,16 +8,16 @@ class Shoe
     @brand
   end
   def color=(color)
-    @color - color 
-  end 
+    @color - color
+  end
   def color
-    @color 
-  end 
+    @color
+  end
   def size = (size)
-    @size = size 
-  end 
-  def size 
-    @size 
-  end 
-      
+    @size = size
+  end
+  def size
+    @size
+  end
+
 end
