@@ -2,7 +2,7 @@ class Book #("And Then There Were None")
 
   def initialize(title)
   end
-  def title 
-    title 
+  def title
+    title
 
 end
