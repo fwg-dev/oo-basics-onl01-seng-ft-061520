@@ -15,8 +15,8 @@ class Book #("And Then There Were None")
   end
 
   def page_count(num)
-   @page_count = num 
- end 
+   @page_count = num
+ end
  def page_count
    @page_count
 end
