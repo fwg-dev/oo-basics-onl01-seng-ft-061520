@@ -13,4 +13,4 @@ class Book #("And Then There Were None")
   def author
     @author
   end
-end 
+end
