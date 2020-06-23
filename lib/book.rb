@@ -6,5 +6,8 @@ class Book #("And Then There Were None")
   def title
     @title
   end
-
+def author(author)
+  @author = author
+  
+end 
 end
